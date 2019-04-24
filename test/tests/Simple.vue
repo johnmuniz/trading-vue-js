@@ -13,6 +13,7 @@ import Utils from '../../src/stuff/utils.js'
 
 export default {
     name: 'Simple',
+    description: 'Should display everything okay',
     components: {
         TradingVue
     },
