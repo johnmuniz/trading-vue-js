@@ -32,7 +32,7 @@ export default {
     },
     data() {
         return {
-            chart: Data, // TODO: Use data structure v1.1
+            chart: Data,
             width: window.innerWidth,
             height: window.innerHeight,
             colors: {
