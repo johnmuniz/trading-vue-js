@@ -25,6 +25,7 @@ export default {
     },
     mounted() {
         window.addEventListener('resize', this.onResize)
+        // TODO: simplify the data setup 
         setTimeout(() => {
             // Async data setup
             this.$set(this, 'chart', Data)
