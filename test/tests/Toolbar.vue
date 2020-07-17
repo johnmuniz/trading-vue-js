@@ -17,6 +17,7 @@ import DataCube from '../../src/helpers/datacube.js'
 
 export default {
     name: 'Toolbar',
+    icon: '🔪',
     description: 'Toolbar & drawing tools',
     props: ['night'],
     components: {
