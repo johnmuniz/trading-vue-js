@@ -16,6 +16,7 @@ const Pack = {
     overlays,
     colorpacks,
     skins,
+    Button,
     Main
 }
 
